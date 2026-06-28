@@ -1,0 +1,17 @@
+{
+  "name": "lecture_4",
+  "version": "1.0.0",
+  "description": "This is 4 th lecture and we are building food delivery app in react",
+  "license": "ISC",
+  "author": "Sumit Singh Rawat",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index4.html"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
